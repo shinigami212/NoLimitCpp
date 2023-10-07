@@ -1,4 +1,3 @@
-// power of number
 #include<iostream>
 using namespace std;
 int pow(int n,int x);
